@@ -367,6 +367,7 @@
     transition-duration: 0.3s;
     transition-property: transform;
     font-size: 1rem;
+    cursor: pointer;
 }
 .social-icons a:hover{
     color: var(--primary-bg-color);
